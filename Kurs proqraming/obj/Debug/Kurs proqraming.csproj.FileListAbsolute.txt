@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Kurs proqraming\Kurs proqraming\obj\Debug\Kurs proqraming.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Kurs proqraming\Kurs proqraming\obj\Debug\Kurs proqraming.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kurs proqraming\Kurs proqraming\bin\Debug\Kurs proqraming.exe.config
+C:\Users\User\source\repos\Kurs proqraming\Kurs proqraming\bin\Debug\Kurs proqraming.exe
+C:\Users\User\source\repos\Kurs proqraming\Kurs proqraming\bin\Debug\Kurs proqraming.pdb
+C:\Users\User\source\repos\Kurs proqraming\Kurs proqraming\obj\Debug\Kurs proqraming.exe
+C:\Users\User\source\repos\Kurs proqraming\Kurs proqraming\obj\Debug\Kurs proqraming.pdb
